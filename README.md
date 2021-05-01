@@ -2,7 +2,7 @@
 
 TLDRs of Distsys Papers.
 
-- [Spanner: Google’s Globally-Distributed Database (2012)](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+- [Spanner: Google’s Globally-Distributed Database (2012)](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - [1hr 20min read](https://youtu.be/OdbOCpwWZLs)
   -  Design goals
     - Multi-version
     - Globally Distributed
