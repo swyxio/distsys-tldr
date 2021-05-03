@@ -37,6 +37,13 @@ TLDRs of Distsys Papers.
 
 > We have shown that reifying clock uncertainty in the time API makes it possible to build distributed systems with much stronger time semantics. In addition, as the underlying system enforces tighter bounds on clock uncertainty, the overhead of the stronger semantics decreases. As a community, we should no longer depend on loosely synchronized clocks and weak time APIs in designing distributed algorithms.
 
+- Raft
+  - Simple visualization http://thesecretlivesofdata.com/raft of election 
+
+## Todos
+
+- [Jepsen on Consistency](http://jepsen.io/consistency)
+
 ## Reading Lists
 
 - https://dancres.github.io/Pages/
