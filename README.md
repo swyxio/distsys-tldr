@@ -2,6 +2,15 @@
 
 TLDRs of Distsys Papers.
 
+- [8 Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+  1. **The network is reliable**: applications are woefully ill equipped to handle networking errors (retry and timeout)
+  1. **Latency is zero**: allowing unbounded traffic, increasing dropped packets
+  1. **Bandwidth is infinite**: traffic senders not considering bandwidth result in bottlenecks
+  1. **The network is secure**: people don't model malicious programs
+  1. **Topology doesn't change**
+  1. **There is one administrator**
+  1. **Transport cost is zero**
+  1. **The network is homogeneous**
 - [Spanner: Google’s Globally-Distributed Database (2012)](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - [1hr 20min read](https://youtu.be/OdbOCpwWZLs)
   -  Design goals
     - Multi-version
